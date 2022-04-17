@@ -6,7 +6,7 @@ Mind-Set.
 Contacts.
 -----------------
 * Email : ming920331@gmail.com
-* Instagram : minkyeongkkim(잠시 비공개)
+* Instagram : minkyeongkkim
 
 Stats.
 -----------------
