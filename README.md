@@ -19,7 +19,7 @@ BoJ.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming8970)](https://solved.ac/ming8970)
 
-Stacks.
+Skills.
 -----------------
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
