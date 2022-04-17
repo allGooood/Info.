@@ -10,14 +10,13 @@ Contacts.
 
 Stats.
 -----------------
-#### 올해의 목표: 더 풍성한 STAT 만들기.
 ![MinKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyeong9203&show_icons=true&theme=radical)
+#### 올해의 목표: 더 풍성한 STAT을 만들어야겠다. 나의 활동을 눈으로 직접 보니 깃헙을 너무 커밋용으로만 쓴게 드러나네Yo..
 
 BoJ.
 ---------------
-#### 올해의 목표: BoJ티어 올리기!
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming8970)](https://solved.ac/ming8970)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming8970)](https://solved.ac/ming8970)
+#### 올해의 목표: BoJ티어 올리고 싶습니다아. 아침에 일어나서 알고리즘 하나씩 푸는 삶. 너무 보람차겠다.
 
 Skills.
 -----------------
