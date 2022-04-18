@@ -6,12 +6,12 @@ Mind-Set.
 Contacts.
 -----------------
 * Email : ming920331@gmail.com
-* Instagram : minkyeongkkim
+* Instagram : minkyeongkkim (Running? @gina_runs, Eating? @gina_eats_)
 
 Stats.
 -----------------
 ![MinKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyeong9203&show_icons=true&theme=radical)
-#### 올해의 목표: 더 풍성한 STAT을 만들어야겠다. 나의 활동을 눈으로 직접 보니 깃헙을 너무 커밋용으로만 쓴게 드러나네Yo..
+#### 올해의 목표: 더 풍성한 STAT을 만들어야겠다. 활동내용을 눈으로 직접 보니 깃헙을 너무 커밋용으로만 쓴게 드러나
 
 BoJ.
 ---------------
