@@ -16,7 +16,7 @@ Stats.
 BoJ.
 ---------------
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming8970)](https://solved.ac/ming8970)
-#### 올해의 목표: BoJ티어 올리고 싶습니다아. 아침에 일어나서 알고리즘 하나씩 푸는 삶. 너무 보람차겠다.
+#### 올해의 목표: BoJ티어 올리고 싶습니다. 아침에 일어나서 알고리즘 하나씩 푸는 삶. 너무 보람차겠다.
 
 Skills.
 -----------------
