@@ -9,7 +9,7 @@ Contacts.
 
 Stats.
 -----------------
-![MinKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyeong9203&show_icons=true&theme=radical)
+![MinKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=allGooood&show_icons=true&theme=radical)
 #### 올해의 목표: 더 풍성한 STAT을 만들어야겠다. 활동내용을 눈으로 직접 보니 깃헙을 너무 커밋용으로만 쓴게 드러나
 
 BoJ.
