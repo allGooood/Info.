@@ -6,7 +6,6 @@ Mind-Set.
 Contacts.
 -----------------
 * Email : ming920331@gmail.com
-* Instagram : minkyeongkkim (Running? @gina_runs, Eating? @gina_eats_)
 
 Stats.
 -----------------
